@@ -1,3 +1,5 @@
+OS: Ubuntu
+
 Run [./rustdesk-server-setup/install.sh](rustdesk-server-setup/install.sh) to setup and run rustdesk server.
 
 Run [./set-firewall.sh](set-firewall.sh) to open port on firewall.
