@@ -1,3 +1,5 @@
+Rustdesk remote desktop software self-hosting server
+
 OS: Ubuntu
 
 Run [./rustdesk-server-setup/install.sh](rustdesk-server-setup/install.sh) to setup and run rustdesk server.
